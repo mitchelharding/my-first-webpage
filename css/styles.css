@@ -10,9 +10,11 @@ h2 {
 
 p {
     font-family: sans-serif;
+    text-position:  front;
 }
 
 ul {
   font-size:20px;
   line-height:50px;
+
 }
